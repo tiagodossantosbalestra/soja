@@ -56,7 +56,7 @@
     border-radius: 8px;
   }
 
-  (max-width:800px){
+  (max-width: 800px){
     .secao{
       flex-direction: column;
     }
